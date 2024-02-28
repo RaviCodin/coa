@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.086ba7d6.css",
+    "main.js": "/static/js/main.55108dba.js",
+    "static/media/Brochure.pdf": "/static/media/Brochure.2d22322036bea681f71c.pdf",
+    "static/media/ISO 22000 PAPL.pdf": "/static/media/ISO 22000 PAPL.593929eb027c87bc9413.pdf",
+    "static/media/ISO 9001 PAPL.pdf": "/static/media/ISO 9001 PAPL.f2cde48e63b7427958b4.pdf",
+    "static/media/FDA PAPL.pdf": "/static/media/FDA PAPL.d497ce5cf31b1be6745f.pdf",
+    "static/media/product-banner.png": "/static/media/product-banner.8a60ccf148cc6de3ca9b.png",
+    "static/media/HALAL PAPL.pdf": "/static/media/HALAL PAPL.0f928251977e14255d97.pdf",
+    "static/media/MONO.jpg": "/static/media/MONO.907b17b913a61f674c25.jpg",
+    "static/media/KOSHER PAPL.pdf": "/static/media/KOSHER PAPL.f2c39d2cb877e668a081.pdf",
+    "static/media/ISO 14001 PAPL.pdf": "/static/media/ISO 14001 PAPL.b6a1c8be9361b395731b.pdf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "index.html": "/index.html",
+    "main.086ba7d6.css.map": "/static/css/main.086ba7d6.css.map",
+    "main.55108dba.js.map": "/static/js/main.55108dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086ba7d6.css",
+    "static/js/main.55108dba.js"
+  ]
+}
